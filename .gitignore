@@ -1,8 +1,7 @@
 # Node modules (in backend and frontend)
 backend/node_modules/
 frontend/node_modules/
-backend/build/
-frontend/build/
+
 # Build output
 build/
 dist/
