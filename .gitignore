@@ -1,5 +1,6 @@
-# Node modules
-node_modules/
+# Node modules (in backend and frontend)
+backend/node_modules/
+frontend/node_modules/
 
 # Build output
 build/
@@ -12,7 +13,7 @@ dist/
 jspm_packages/
 
 # Environment variables
-.env
+backend/.env
 .env.local
 .env.development.local
 .env.test.local
